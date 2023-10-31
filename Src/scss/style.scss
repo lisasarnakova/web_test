@@ -1,0 +1,13 @@
+@import './identic/typography';
+@import './blocks/block';
+*{
+    margin: 0;
+    border: none;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Onest, sans-serif;
+  }
+  .container {
+    width: 1312px;
+    margin: 0 auto;
+  }
